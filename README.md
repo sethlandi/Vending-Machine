@@ -1,5 +1,8 @@
 # VendingMaochine
-Co-programmer: Jason Bush; Recreates the function of a vending machine through terminal controls using O.O.P. fundamentals and File I/O.
+Co-programmer: Jason Bush
+
+Recreates the function of a vending machine through terminal controls using O.O.P. fundamentals and File I/O.
+
 Year: 2020
 
 Developer Note(s):
